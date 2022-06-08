@@ -1,0 +1,31 @@
+// skip Monday 
+Microsoft 
+09:30 - 17:00
+    {"_id":"614ca3e73b8472b63ad00734","conv_id":"a:11VW9zlH8ahfF3zM9Od1CfWiAYYVWLJKJw79SBzRFaV-hhwG_1O5sD71GWYM4FTJ-Yi5KsTfYm70k8PAiuIeiYDQI86dNrl07M2l5W6DnLZ4w8mAiRxsLzzultK8e_OTd","user":{"name":"Magnell, Mattias"},"conversation":{"tenantId":"33dab507-5210-4075-805b-f2717d8cfa74"}},
+
+// skip Wednesday morning 
+    {"_id":"62307d9c3b8472b63ad007e4","conv_id":"a:1RAOfxaTiwcsIZAhKidonAu9CSSE0vX3l5tkp5BYkPJkBYJq5q1sTkaw59kEazv5pp7172rQHyn7fRi8Ts3zDoopeMhUJXIlG4XCbrGKkfqPh-4XfSz7vb5pGgpWTHUvk","user":{"name":"Toni Muhonen"},"conversation":{"tenantId":"261eaa3f-142c-43d4-9b9e-ed3ea62fafa2"}},
+10:00-17:00
+
+
+
+
+
+fetch("https://www.fibofy.com/panda-sharedchannels/checkUserPrivateChannel/U034NAXAXKL?shared_channel=pandacoachbot&team_id=T014DKXB53N", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7,uk;q=0.6",
+    "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"101\", \"Google Chrome\";v=\"101\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"macOS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest",
+    "cookie": "_ga=GA1.2.1467112444.1650175749; _hjSessionUser_1737608=eyJpZCI6ImYzMmYwNjU3LTg2MjYtNTBlZC1hNzFjLTBhZWNkZDdjM2M2YSIsImNyZWF0ZWQiOjE2NTA4OTUzMzI2MzQsImV4aXN0aW5nIjp0cnVlfQ==; __stripe_mid=2f607901-521e-4182-8dcf-f36a9acb6baa037bd9; _fbp=fb.1.1652042749347.2070838829; connect.sid=s%3ALgR0DTN3lX9KkjpBO_gciI4fhz4GTpHd.OY%2BiLLFLSuRqZJvx5eSQy2GbppQPZ1P%2FbGnyUjDl0pM; global_agents=%5B%7B%22name%22%3A%22HAL9000%22%2C%22_id%22%3A%225e6e0aa0836e5f4b1a6bab6b%22%2C%22uri%22%3A%22hal9000%22%2C%22player%22%3Atrue%2C%22isCompanyAvatar%22%3Afalse%7D%2C%7B%22name%22%3A%22Panda%20Bot%22%2C%22_id%22%3A%225e766b0ef924be558fc8807e%22%2C%22uri%22%3A%22panda.bot%22%2C%22player%22%3Atrue%2C%22isCompanyAvatar%22%3Afalse%7D%2C%7B%22name%22%3A%22Chatbot%20to%20support%20remote%20work%20transition%22%2C%22_id%22%3A%225e902133d8106a2b23c88fcb%22%2C%22uri%22%3A%22chatbot.to.support.remote.work.transition%22%2C%22player%22%3Atrue%2C%22isCompanyAvatar%22%3Afalse%7D%2C%7B%22name%22%3A%22Panda%20Bot%20%5C%22Paws%5C%22%22%2C%22_id%22%3A%225e903eb9d8106a2b23c88fe3%22%2C%22uri%22%3A%22panda.bot.paws%22%2C%22player%22%3Atrue%2C%22isCompanyAvatar%22%3Afalse%7D%2C%7B%22name%22%3A%22Pandatron%201%22%2C%22_id%22%3A%225ed75537f74a825a80705270%22%2C%22uri%22%3A%22pandatron.1%22%2C%22player%22%3Atrue%2C%22isCompanyAvatar%22%3Afalse%7D%2C%7B%22name%22%3A%22Pandatron%202%22%2C%22_id%22%3A%225ed75572f74a825a80705272%22%2C%22uri%22%3A%22pandatron.2%22%2C%22player%22%3Atrue%2C%22isCompanyAvatar%22%3Afalse%7D%2C%7B%22name%22%3A%22Panda-MV%22%2C%22_id%22%3A%225fb23d02f30df55f6b6afa8b%22%2C%22uri%22%3A%22panda-mv%22%2C%22player%22%3Atrue%2C%22isCompanyAvatar%22%3Afalse%7D%2C%7B%22name%22%3A%22Panda-AdmiralMarkets%22%2C%22_id%22%3A%226005ab7f8c98a11d331e918c%22%2C%22uri%22%3A%22panda-am%22%2C%22player%22%3Atrue%2C%22isCompanyAvatar%22%3Afalse%7D%2C%7B%22name%22%3A%22Nome1%22%2C%22_id%22%3A%2260e725f6d8212d524c843883%22%2C%22uri%22%3A%22nome1%22%2C%22player%22%3Atrue%2C%22isCompanyAvatar%22%3Afalse%7D%5D; currentAvatar=6005ab7f8c98a11d331e918c; mp_5e395adbffa8613b8525c450d4ccb06e_mixpanel=%7B%22distinct_id%22%3A%20%2218032c00d1dbbd-0ac2138988c18f-53580614-13c680-18032c00d1e370%22%2C%22%24device_id%22%3A%20%2218032c00d1dbbd-0ac2138988c18f-53580614-13c680-18032c00d1e370%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fwww.fibofy.com%2Fsignin%2F%3Fredir%3D%2Fpanda%2Fadmin%2F%22%2C%22%24initial_referring_domain%22%3A%20%22www.fibofy.com%22%2C%22%24search_engine%22%3A%20%22google%22%7D; AWSELB=43F19BD70A0EC6AEC3E24AA779BA6DDF4EA15902C7A6E2E052B0BF03B6A9B463D9674071055CD3B18FE20A1BAF2A94A0D2BFEDAA74115F80D33D51B8CA39A2F39942AEA08D; AWSELBCORS=43F19BD70A0EC6AEC3E24AA779BA6DDF4EA15902C7A6E2E052B0BF03B6A9B463D9674071055CD3B18FE20A1BAF2A94A0D2BFEDAA74115F80D33D51B8CA39A2F39942AEA08D",
+    "Referer": "https://www.fibofy.com/panda/admin/",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "body": null,
+  "method": "GET"
+});
